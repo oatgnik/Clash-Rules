@@ -6,129 +6,129 @@ IP-CIDR,95.161.76.0/24,no-resolve
 IP-CIDR,142.251.215.0/24,no-resolve
 
 # 国外DNS
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
-DOMAIN-SUFFIX,dot.sb
-DOMAIN-SUFFIX,dns.umbrella.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,doh.dns.sb
-DOMAIN-SUFFIX,doh.opendns.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,hk-hkg.doh.sb
+DOMAIN-SUFFIX,dns.google,🌍 国外
+DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com,🌍 国外
+DOMAIN-SUFFIX,dot.sb,🌍 国外
+DOMAIN-SUFFIX,dns.umbrella.com,🌍 国外
+DOMAIN-SUFFIX,dns.quad9.net,🌍 国外
+DOMAIN-SUFFIX,dns.google,🌍 国外
+DOMAIN-SUFFIX,cloudflare-dns.com,🌍 国外
+DOMAIN-SUFFIX,doh.dns.sb,🌍 国外
+DOMAIN-SUFFIX,doh.opendns.com,🌍 国外
+DOMAIN-SUFFIX,dns.quad9.net,🌍 国外
+DOMAIN-SUFFIX,hk-hkg.doh.sb,🌍 国外
 
 # 其他网站
-DOMAIN-SUFFIX,polymarket.com
-DOMAIN-SUFFIX,cacapex.com
-DOMAIN-SUFFIX,1lib.sk
-DOMAIN-SUFFIX,6bcloud.top
-DOMAIN-SUFFIX,viptwo.top
-DOMAIN-SUFFIX,followme.com
-DOMAIN-SUFFIX,followme.ceo
-DOMAIN-SUFFIX,whatsmydns.me
-DOMAIN-SUFFIX,hostloc.net
-DOMAIN-SUFFIX,tmgm.com
-DOMAIN-SUFFIX,plexapp.com
-DOMAIN-SUFFIX,plexmediaserver.com
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,ip111.cn
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ip-score.com
-DOMAIN-SUFFIX,dnsleaktest.com
-DOMAIN-SUFFIX,asiassn.com
-DOMAIN-SUFFIX,ipleak.net
-DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,browserleaks.org
-DOMAIN-SUFFIX,browserleaks.net
-DOMAIN-SUFFIX,surfsharkdns.com
-DOMAIN-SUFFIX,llgjc1.com
-DOMAIN-SUFFIX,qichiyu.com
-# DOMAIN-SUFFIX,groq.com
-# DOMAIN-SUFFIX,difyai.com
-DOMAIN-SUFFIX,hsy88.org
-DOMAIN-SUFFIX,xn--mes358acgm99l.com
+DOMAIN-SUFFIX,polymarket.com,🌍 国外
+DOMAIN-SUFFIX,cacapex.com,🌍 国外
+DOMAIN-SUFFIX,1lib.sk,🌍 国外
+DOMAIN-SUFFIX,6bcloud.top,🌍 国外
+DOMAIN-SUFFIX,viptwo.top,🌍 国外
+DOMAIN-SUFFIX,followme.com,🌍 国外
+DOMAIN-SUFFIX,followme.ceo,🌍 国外
+DOMAIN-SUFFIX,whatsmydns.me,🌍 国外
+DOMAIN-SUFFIX,hostloc.net,🌍 国外
+DOMAIN-SUFFIX,tmgm.com,🌍 国外
+DOMAIN-SUFFIX,plexapp.com,🌍 国外
+DOMAIN-SUFFIX,plexmediaserver.com,🌍 国外
+DOMAIN-SUFFIX,plex.tv,🌍 国外
+DOMAIN-SUFFIX,ip111.cn,🌍 国外
+DOMAIN-SUFFIX,ipinfo.io,🌍 国外
+DOMAIN-SUFFIX,ip-score.com,🌍 国外
+DOMAIN-SUFFIX,dnsleaktest.com,🌍 国外
+DOMAIN-SUFFIX,asiassn.com,🌍 国外
+DOMAIN-SUFFIX,ipleak.net,🌍 国外
+DOMAIN-SUFFIX,browserleaks.com,🌍 国外
+DOMAIN-SUFFIX,browserleaks.org,🌍 国外
+DOMAIN-SUFFIX,browserleaks.net,🌍 国外
+DOMAIN-SUFFIX,surfsharkdns.com,🌍 国外
+DOMAIN-SUFFIX,llgjc1.com,🌍 国外
+DOMAIN-SUFFIX,qichiyu.com,🌍 国外
+# DOMAIN-SUFFIX,groq.com,🌍 国外
+# DOMAIN-SUFFIX,difyai.com,🌍 国外
+DOMAIN-SUFFIX,hsy88.org,🌍 国外
+DOMAIN-SUFFIX,xn--mes358acgm99l.com,🌍 国外
 
-DOMAIN-SUFFIX,extrabux.com
-DOMAIN-SUFFIX,wallvpn.com
-
-
-DOMAIN-SUFFIX,stotik.com
-DOMAIN-SUFFIX,streetfighter.com
-DOMAIN-SUFFIX,capcom.com
-DOMAIN-SUFFIX,fcdn.sk
-DOMAIN-SUFFIX,kooink.com
-DOMAIN-SUFFIX,nodeseek.com
-DOMAIN-SUFFIX,socialchain.app
-DOMAIN-SUFFIX,onesignal.com
+DOMAIN-SUFFIX,extrabux.com,🌍 国外
+DOMAIN-SUFFIX,wallvpn.com,🌍 国外
 
 
-DOMAIN-SUFFIX,kjfx.cc
+DOMAIN-SUFFIX,stotik.com,🌍 国外
+DOMAIN-SUFFIX,streetfighter.com,🌍 国外
+DOMAIN-SUFFIX,capcom.com,🌍 国外
+DOMAIN-SUFFIX,fcdn.sk,🌍 国外
+DOMAIN-SUFFIX,kooink.com,🌍 国外
+DOMAIN-SUFFIX,nodeseek.com,🌍 国外
+DOMAIN-SUFFIX,socialchain.app,🌍 国外
+DOMAIN-SUFFIX,onesignal.com,🌍 国外
 
-DOMAIN-SUFFIX,hlive.io
-DOMAIN-SUFFIX,ndmdhs.com
-DOMAIN-SUFFIX,anygate.vip
-DOMAIN-SUFFIX,yfsp.tv
-DOMAIN-SUFFIX,bitwayeat.com
-DOMAIN-SUFFIX,etcbbi.xyz
-DOMAIN-SUFFIX,etcbbf.xyz
-DOMAIN-SUFFIX,etcbbj.xyz
-DOMAIN-SUFFIX,etcbbi.xyz
-DOMAIN-SUFFIX,etcbbh.xyz
-DOMAIN-SUFFIX,etcbbf.xyz
-DOMAIN-SUFFIX,etcbbg.xyz
-DOMAIN-SUFFIX,bugsnag.com
-DOMAIN-SUFFIX,pipecdn.vip
-DOMAIN-SUFFIX,wyav.tv
-DOMAIN-SUFFIX,tfboyaac.com
-DOMAIN-SUFFIX,tfboyaab.com
-DOMAIN-SUFFIX,aiyifan.tv
-DOMAIN-SUFFIX,tfboyaaa.com
 
-DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,kjfx.cc,🌍 国外
 
-DOMAIN-SUFFIX,waytogone.com
-DOMAIN-SUFFIX,timeprecei.com
-DOMAIN-SUFFIX,etcbbb.xyz
-DOMAIN-SUFFIX,tfbgbbb.com
-DOMAIN-SUFFIX,tfbgaaa.com
-DOMAIN-SUFFIX,etcbba.xyz
-DOMAIN-SUFFIX,tfboyaae.com
-DOMAIN-SUFFIX,tfboyaad.com
+DOMAIN-SUFFIX,hlive.io,🌍 国外
+DOMAIN-SUFFIX,ndmdhs.com,🌍 国外
+DOMAIN-SUFFIX,anygate.vip,🌍 国外
+DOMAIN-SUFFIX,yfsp.tv,🌍 国外
+DOMAIN-SUFFIX,bitwayeat.com,🌍 国外
+DOMAIN-SUFFIX,etcbbi.xyz,🌍 国外
+DOMAIN-SUFFIX,etcbbf.xyz,🌍 国外
+DOMAIN-SUFFIX,etcbbj.xyz,🌍 国外
+DOMAIN-SUFFIX,etcbbi.xyz,🌍 国外
+DOMAIN-SUFFIX,etcbbh.xyz,🌍 国外
+DOMAIN-SUFFIX,etcbbf.xyz,🌍 国外
+DOMAIN-SUFFIX,etcbbg.xyz,🌍 国外
+DOMAIN-SUFFIX,bugsnag.com,🌍 国外
+DOMAIN-SUFFIX,pipecdn.vip,🌍 国外
+DOMAIN-SUFFIX,wyav.tv,🌍 国外
+DOMAIN-SUFFIX,tfboyaac.com,🌍 国外
+DOMAIN-SUFFIX,tfboyaab.com,🌍 国外
+DOMAIN-SUFFIX,aiyifan.tv,🌍 国外
+DOMAIN-SUFFIX,tfboyaaa.com,🌍 国外
 
-DOMAIN-SUFFIX,polivera.ai
-DOMAIN-SUFFIX,asiassn.com
-DOMAIN-SUFFIX,mmcks.top
-DOMAIN-SUFFIX,needay.xyz
-DOMAIN-SUFFIX,mzzxuh.com
-DOMAIN-SUFFIX,lianjiasub.work
-DOMAIN-SUFFIX,muniucloud.pro
-DOMAIN-SUFFIX,kuajing.uk
-DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,xiaoxintv.cc
-DOMAIN-SUFFIX,69yun.top
-DOMAIN-SUFFIX,nivodi.com
-DOMAIN-SUFFIX,steamcommunity.com
-# DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,abcproxy.com
-DOMAIN-SUFFIX,piliapp.com
-DOMAIN-SUFFIX,meijutt.cc
-DOMAIN-SUFFIX,piaohua.com
-DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,browserscan.net
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,dnscheck.tools
-DOMAIN-SUFFIX,arin.net
-DOMAIN-SUFFIX,null-addr.com
-DOMAIN-SUFFIX,null-addr.net
-DOMAIN-SUFFIX,null-addr.org
-DOMAIN-SUFFIX,null-addr.biz
-DOMAIN-SUFFIX,null-addr.info
-DOMAIN-SUFFIX,addr.tools
-DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,coincola.com
-DOMAIN-SUFFIX,coincolacdn.com
-DOMAIN-SUFFIX,colaotc.com
+DOMAIN-SUFFIX,canva.com,🌍 国外
+
+DOMAIN-SUFFIX,waytogone.com,🌍 国外
+DOMAIN-SUFFIX,timeprecei.com,🌍 国外
+DOMAIN-SUFFIX,etcbbb.xyz,🌍 国外
+DOMAIN-SUFFIX,tfbgbbb.com,🌍 国外
+DOMAIN-SUFFIX,tfbgaaa.com,🌍 国外
+DOMAIN-SUFFIX,etcbba.xyz,🌍 国外
+DOMAIN-SUFFIX,tfboyaae.com,🌍 国外
+DOMAIN-SUFFIX,tfboyaad.com,🌍 国外
+
+DOMAIN-SUFFIX,polivera.ai,🌍 国外
+DOMAIN-SUFFIX,asiassn.com,🌍 国外
+DOMAIN-SUFFIX,mmcks.top,🌍 国外
+DOMAIN-SUFFIX,needay.xyz,🌍 国外
+DOMAIN-SUFFIX,mzzxuh.com,🌍 国外
+DOMAIN-SUFFIX,lianjiasub.work,🌍 国外
+DOMAIN-SUFFIX,muniucloud.pro,🌍 国外
+DOMAIN-SUFFIX,kuajing.uk,🌍 国外
+DOMAIN-SUFFIX,metacubex.one,🌍 国外
+DOMAIN-SUFFIX,xiaoxintv.cc,🌍 国外
+DOMAIN-SUFFIX,69yun.top,🌍 国外
+DOMAIN-SUFFIX,nivodi.com,🌍 国外
+DOMAIN-SUFFIX,steamcommunity.com,🌍 国外
+# DOMAIN-SUFFIX,steampowered.com,🌍 国外
+DOMAIN-SUFFIX,abcproxy.com,🌍 国外
+DOMAIN-SUFFIX,piliapp.com,🌍 国外
+DOMAIN-SUFFIX,meijutt.cc,🌍 国外
+DOMAIN-SUFFIX,piaohua.com,🌍 国外
+DOMAIN-SUFFIX,ip-api.com,🌍 国外
+DOMAIN-SUFFIX,browserscan.net,🌍 国外
+DOMAIN-SUFFIX,ipify.org,🌍 国外
+DOMAIN-SUFFIX,dnscheck.tools,🌍 国外
+DOMAIN-SUFFIX,arin.net,🌍 国外
+DOMAIN-SUFFIX,null-addr.com,🌍 国外
+DOMAIN-SUFFIX,null-addr.net,🌍 国外
+DOMAIN-SUFFIX,null-addr.org,🌍 国外
+DOMAIN-SUFFIX,null-addr.biz,🌍 国外
+DOMAIN-SUFFIX,null-addr.info,🌍 国外
+DOMAIN-SUFFIX,addr.tools,🌍 国外
+DOMAIN-SUFFIX,bulianglin.com,🌍 国外
+DOMAIN-SUFFIX,coincola.com,🌍 国外
+DOMAIN-SUFFIX,coincolacdn.com,🌍 国外
+DOMAIN-SUFFIX,colaotc.com,🌍 国外
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
