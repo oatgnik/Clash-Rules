@@ -4,15 +4,15 @@
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
-DOMAIN-SUFFIX,copilot.com
-DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.com,✨ AI1
+DOMAIN-SUFFIX,bing.com,✨ AI1
 
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,chatgpt.com,✨ AI1
+DOMAIN-SUFFIX,auth0.com,✨ AI1
+DOMAIN-SUFFIX,client-api.arkoselabs.com,✨ AI1
+DOMAIN-SUFFIX,events.statsigapi.net,✨ AI1
+DOMAIN-SUFFIX,featuregates.org,✨ AI1
+DOMAIN-SUFFIX,identrust.com,✨ AI1
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,oaistatic.com
