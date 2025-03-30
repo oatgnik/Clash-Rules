@@ -1,45 +1,45 @@
 IP-CIDR,142.251.215.0/24,no-resolve
 
-DOMAIN-SUFFIX,vultr.com
-DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,ipw.cn
+DOMAIN-SUFFIX,vultr.com,🌍 国外
+DOMAIN-SUFFIX,test-ipv6.com,🌍 国外
+DOMAIN-SUFFIX,ipw.cn,🌍 国外
 
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,speedcheck.org
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,speedtest.cn
-DOMAIN-SUFFIX,ustc.edu.cn
-DOMAIN-SUFFIX,dnscheck.tools
-DOMAIN-SUFFIX,whoer.net
-DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,browserleaks.org
-DOMAIN-SUFFIX,browserleaks.net
+DOMAIN-SUFFIX,cloudflare.com,🌍 国外
+DOMAIN-SUFFIX,fast.com,🌍 国外
+DOMAIN-SUFFIX,speedcheck.org,🌍 国外
+DOMAIN-SUFFIX,speedtest.net,🌍 国外
+DOMAIN-SUFFIX,speedtest.cn,🌍 国外
+DOMAIN-SUFFIX,ustc.edu.cn,🌍 国外
+DOMAIN-SUFFIX,dnscheck.tools,🌍 国外
+DOMAIN-SUFFIX,whoer.net,🌍 国外
+DOMAIN-SUFFIX,browserleaks.com,🌍 国外
+DOMAIN-SUFFIX,browserleaks.org,🌍 国外
+DOMAIN-SUFFIX,browserleaks.net,🌍 国外
 
-DOMAIN-SUFFIX,dnsleaktest.com
-DOMAIN-SUFFIX,browserscan.net
-DOMAIN-SUFFIX,surfshark.com
-DOMAIN-SUFFIX,surfsharkdns.com
-DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,dnsleaktest.com,🌍 国外
+DOMAIN-SUFFIX,browserscan.net,🌍 国外
+DOMAIN-SUFFIX,surfshark.com,🌍 国外
+DOMAIN-SUFFIX,surfsharkdns.com,🌍 国外
+DOMAIN-SUFFIX,ip-api.com,🌍 国外
 
-DOMAIN-SUFFIX,ipleak.net
-DOMAIN-SUFFIX,ip-score.com
-DOMAIN-SUFFIX,888005.xyz
-DOMAIN-SUFFIX,incolumitas.com
+DOMAIN-SUFFIX,ipleak.net,🌍 国外
+DOMAIN-SUFFIX,ip-score.com,🌍 国外
+DOMAIN-SUFFIX,888005.xyz,🌍 国外
+DOMAIN-SUFFIX,incolumitas.com,🌍 国外
 
-DOMAIN-SUFFIX,null-addr.com
-DOMAIN-SUFFIX,null-addr.net
-DOMAIN-SUFFIX,null-addr.org
-DOMAIN-SUFFIX,null-addr.biz
-DOMAIN-SUFFIX,null-addr.info
-DOMAIN-SUFFIX,addr.tools
+DOMAIN-SUFFIX,null-addr.com,🌍 国外
+DOMAIN-SUFFIX,null-addr.net,🌍 国外
+DOMAIN-SUFFIX,null-addr.org,🌍 国外
+DOMAIN-SUFFIX,null-addr.biz,🌍 国外
+DOMAIN-SUFFIX,null-addr.info,🌍 国外
+DOMAIN-SUFFIX,addr.tools,🌍 国外
 
-DOMAIN-SUFFIX,ifconfig.me
-DOMAIN-SUFFIX,ip125.com
-DOMAIN-SUFFIX,skk.moe
-DOMAIN-SUFFIX,ip111.cn
-DOMAIN-SUFFIX,vultr.com
-DOMAIN-SUFFIX,ping0.cc
-DOMAIN-SUFFIX,incolumitas.com
-DOMAIN-SUFFIX,incolumitas.com
-DOMAIN-SUFFIX,incolumitas.com
+DOMAIN-SUFFIX,ifconfig.me,🌍 国外
+DOMAIN-SUFFIX,ip125.com,🌍 国外
+DOMAIN-SUFFIX,skk.moe,🌍 国外
+DOMAIN-SUFFIX,ip111.cn,🌍 国外
+DOMAIN-SUFFIX,vultr.com,🌍 国外
+DOMAIN-SUFFIX,ping0.cc,🌍 国外
+DOMAIN-SUFFIX,incolumitas.com,🌍 国外
+DOMAIN-SUFFIX,incolumitas.com,🌍 国外
+DOMAIN-SUFFIX,incolumitas.com,🌍 国外
