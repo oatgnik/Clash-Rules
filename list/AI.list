@@ -13,33 +13,33 @@ DOMAIN-SUFFIX,client-api.arkoselabs.com,✨ AI1
 DOMAIN-SUFFIX,events.statsigapi.net,✨ AI1
 DOMAIN-SUFFIX,featuregates.org,✨ AI1
 DOMAIN-SUFFIX,identrust.com,✨ AI1
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,circumlunar.space
-DOMAIN-SUFFIX,vulpes.one
-DOMAIN-SUFFIX,mozz.us
-DOMAIN-SUFFIX,conman.org
-DOMAIN-SUFFIX,bortzmeyer.org
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,difyai.com
-DOMAIN-SUFFIX,genspark.ai
+DOMAIN-SUFFIX,intercom.io,✨ AI1
+DOMAIN-SUFFIX,intercomcdn.com,✨ AI1
+DOMAIN-SUFFIX,oaistatic.com,✨ AI1
+DOMAIN-SUFFIX,oaiusercontent.com,✨ AI1
+DOMAIN-SUFFIX,openai.com,✨ AI1
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,✨ AI1
+DOMAIN-SUFFIX,sentry.io,✨ AI1
+DOMAIN-SUFFIX,stripe.com,✨ AI1
+DOMAIN-SUFFIX,bard.google.com,✨ AI1
+DOMAIN-SUFFIX,gemini.google.com,✨ AI1
+DOMAIN-SUFFIX,makersuite.google.com,✨ AI1
+DOMAIN-SUFFIX,anthropic.com,✨ AI1
+DOMAIN-SUFFIX,claude.ai,✨ AI1
+DOMAIN-SUFFIX,circumlunar.space,✨ AI1
+DOMAIN-SUFFIX,vulpes.one,✨ AI1
+DOMAIN-SUFFIX,mozz.us,✨ AI1
+DOMAIN-SUFFIX,conman.org,✨ AI1
+DOMAIN-SUFFIX,bortzmeyer.org,✨ AI1
+DOMAIN-SUFFIX,groq.com,✨ AI1
+DOMAIN-SUFFIX,difyai.com,✨ AI1
+DOMAIN-SUFFIX,genspark.ai,✨ AI1
 
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com,✨ AI1
+DOMAIN-SUFFIX,x.com,✨ AI1
+DOMAIN-SUFFIX,x.ai,✨ AI1
 
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,signalr.net
+DOMAIN-SUFFIX,googleapis.com,✨ AI1
+DOMAIN-SUFFIX,googleapis.cn,✨ AI1
+DOMAIN-SUFFIX,gstatic.com,✨ AI1
+DOMAIN-SUFFIX,signalr.net,✨ AI1
